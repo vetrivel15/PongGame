@@ -1,3 +1,3 @@
 # PongGame
 
-## First version
+### First version of pong game.
